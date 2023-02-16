@@ -1,0 +1,5 @@
+// Setup
+const myArray = [["John", 23], ["cat", 2]];
+let last = myArray.length;
+let removedFromMyArray = myArray.pop([last-1]);
+// Only change code below this line

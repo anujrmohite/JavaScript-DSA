@@ -1,0 +1,6 @@
+function functionWithArgs(para1,para2){
+  let sum = para1+para2;
+  console.log(sum);
+}
+
+functionWithArgs(12,12);

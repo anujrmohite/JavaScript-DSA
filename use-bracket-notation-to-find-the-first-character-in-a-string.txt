@@ -1,0 +1,8 @@
+// Setup
+let firstLetterOfLastName = "";
+const lastName = "Lovelace";
+let first = lastName[0];
+
+
+// Only change code below this line
+firstLetterOfLastName = lastName[0]; // Change this line
