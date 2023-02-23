@@ -2,3 +2,4 @@ const myArray = [50, 60, 70];
 const myData = myArray[0];
 const myData = myArray[1];
 const myData = myArray[2];
+const myData = myArray[2];
